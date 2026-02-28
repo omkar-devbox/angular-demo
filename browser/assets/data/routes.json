@@ -1,0 +1,76 @@
+{
+  "routes": [
+    {
+      "path": "",
+      "title": "Torque Calculator",
+      "icon": "monitor",
+      "class": "menu-toggle",
+      "groupTitle": false,
+      "role": 0,
+      "module": "",
+      "submenu": [
+        {
+          "path": "/BE10ToBE90",
+          "title": "BE10 To BE90",
+          "icon": "",
+          "class": "ml-menu",
+          "groupTitle": false,
+          "role": 0,
+          "module": "",
+          "submenu": []
+        },
+        {
+          "path": "/BE100",
+          "title": "BE100",
+          "icon": "",
+          "class": "ml-menu",
+          "groupTitle": false,
+          "role": 0,
+          "module": "",
+          "submenu": []
+        },
+        {
+          "path": "/BE150",
+          "title": "BE150",
+          "icon": "",
+          "class": "ml-menu",
+          "groupTitle": false,
+          "role": 0,
+          "module": "",
+          "submenu": []
+        },
+
+        {
+          "path": "/Thermal-Expansion",
+          "title": "Thermal Expansion",
+          "icon": "",
+          "class": "ml-menu",
+          "groupTitle": false,
+          "role": 0,
+          "module": "",
+          "submenu": []
+        }
+      ]
+    },
+    {
+      "path": "/Client",
+      "title": "Client",
+      "icon": "trello",
+      "class": "",
+      "groupTitle": false,
+      "role": 0,
+      "module": "",
+      "submenu": []
+    },
+    {
+      "path": "/Material-Properties",
+      "title": "Material Properties",
+      "icon": "trello",
+      "class": "",
+      "groupTitle": false,
+      "role": 0,
+      "module": "",
+      "submenu": []
+    }
+  ]
+}
